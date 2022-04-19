@@ -1,0 +1,31 @@
+_______________
+Vulkan Version:
+ - available:  1.2.182
+ - requesting: 1.2.0
+______________________
+Used Instance Layers :
+VK_LAYER_LUNARG_monitor
+
+Used Instance Extensions :
+VK_KHR_surface
+VK_KHR_win32_surface
+VK_EXT_debug_utils
+____________________
+Compatible Devices :
+0: NVIDIA GeForce RTX 2070 with Max-Q Design
+Could NOT locate mandatory extension 'VK_KHR_acceleration_structure'
+Skipping physical device Intel(R) UHD Graphics
+Could NOT locate mandatory extension 'VK_KHR_acceleration_structure'
+Skipping physical device Intel(R) UHD Graphics
+Could NOT locate mandatory extension 'VK_KHR_acceleration_structure'
+Skipping physical device Intel(R) UHD Graphics
+Physical devices found : 1
+________________________
+Used Device Extensions :
+VK_KHR_swapchain
+VK_KHR_acceleration_structure
+VK_KHR_ray_tracing_pipeline
+VK_KHR_deferred_host_operations
+
+Loading File:  F:/work2/project/vulkan_toy/bin_x64/Release/../../vk_raytracing_tutorial_KHR/ray_tracing__simple/../media/scenes/Medieval_building.obj 
+Loading File:  F:/work2/project/vulkan_toy/bin_x64/Release/../../vk_raytracing_tutorial_KHR/ray_tracing__simple/../media/scenes/plane.obj 
